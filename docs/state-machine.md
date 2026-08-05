@@ -1,9 +1,14 @@
 OFF
+
 STARTUP
+
 RUNNING
-- >40 cm
+- greater than 40 cm
+
 WARNING
 - 15-40 cm
+
 EMERGENCY_STOP
-- <15 cm
+- less than 15 cm
+
 FAULT
